@@ -8,7 +8,7 @@ This library uses HTTP/JSON Firebase Cloud Messaging connection server protocol
 ## Usage
 
 ```
-go get github.com/douglasmakey/go-fcm
+go get github.com/2tgroup/go-fcm
 ```
 
 ## Docs
