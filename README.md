@@ -1,7 +1,5 @@
 # go-fcm : FCM library in Go
 
-[![CircleCI](https://circleci.com/gh/douglasmakey/go-fcm.svg?style=svg)](https://circleci.com/gh/douglasmakey/go-fcm)
-[![Codecov]](https://codecov.io/gh/douglasmakey/go-fcm)
 
 Firebase Cloud Messaging ( FCM ) Library using golang ( Go )
 
@@ -32,7 +30,7 @@ package main
 
 import (
 	"log"
-	"github.com/douglasmakey/go-fcm"
+	"github.com/2tgroup/go-fcm"
 	)
 
 func main() {
